@@ -1,0 +1,7 @@
+.quetion{
+  background-color: antiquewhite;
+  display: grid;
+  width: 400px;
+  justify-content: center;
+  align-content: center;
+}
